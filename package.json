@@ -1,0 +1,23 @@
+{
+  "name": "email-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "geoip-lite": "^1.4.10",
+    "mongoose": "^8.14.3",
+    "path": "^0.12.7",
+    "useragent": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
